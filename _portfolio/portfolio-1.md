@@ -1,6 +1,6 @@
 ---
 title: "Hệ thống Giám sát Nhiệt độ đa kênh LM35"
-excerpt: "Dự án tích hợp cảm biến nhiệt độ LM35, vi điều khiển Arduino và ứng dụng giao diện C# để theo dõi dữ liệu thời gian thực. <br/><img src='/images/arduino-project.jpg'>"
+excerpt: "Dự án tích hợp cảm biến nhiệt độ LM35, vi điều khiển Arduino và ứng dụng C# để theo dõi dữ liệu thời gian thực."
 collection: portfolio
 ---
 
@@ -9,16 +9,11 @@ collection: portfolio
 
 ## Các tính năng chính
 * **Thu thập dữ liệu:** Đọc tín hiệu Analog từ cảm biến LM35 với độ chính xác cao.
-* **Truyền thông:** Sử dụng giao tiếp Serial (UART) để gửi dữ liệu lên PC dưới định dạng CSV/JSON.
-* **Giao diện người dùng:** Ứng dụng C# (WinForms) hiển thị nhiệt độ dưới dạng đồ thị trực quan và con số cụ thể.
-* **Quản lý phiên bản:** Toàn bộ tiến trình phát triển được quản lý chặt chẽ qua các nhánh (branch) và xử lý xung đột (conflict) trên Git.
+* **Truyền thông:** Sử dụng giao tiếp Serial (UART) để gửi dữ liệu lên PC.
+* **Giao diện người dùng:** Ứng dụng C# (WinForms) hiển thị nhiệt độ dưới dạng đồ thị trực quan.
 
 ## Công nghệ sử dụng
 * **Phần cứng:** Arduino Uno R3, Cảm biến LM35.
-* **Phần mềm:** Arduino IDE, Visual Studio (C#), Proteus (Mô phỏng).
-* **Quản lý mã nguồn:** Git, GitHub Desktop.
+* **Phần mềm:** Arduino IDE, Visual Studio (C#), Proteus.
 
-## Minh chứng dự án
-Mọi thông tin chi tiết về mã nguồn, sơ đồ nguyên lý và hướng dẫn sử dụng được lưu trữ tại repository chính thức:
-
-[👉 Truy cập GitHub Repository](https://github.com/baokekute/Arduino_LM35_TempMonitor)
+[👉 Truy cập GitHub Repository của dự án](https://github.com/baokekute/Arduino_LM35_TempMonitor)
