@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 ## Học vấn
 ======
 * **Học viện Công nghệ Bưu chính Viễn thông (PTIT) - Cơ sở TP. Hồ Chí Minh**
