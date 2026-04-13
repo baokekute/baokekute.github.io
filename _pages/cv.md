@@ -1,64 +1,32 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+## Học vấn
+======
+* **Học viện Công nghệ Bưu chính Viễn thông (PTIT) - Cơ sở TP. Hồ Chí Minh**
+  * Chuyên ngành: Internet van vat
+  * Sinh viên năm thứ 3 (2023 - Hiện tại)
 
-{% include base_path %}
+## Kỹ năng chuyên môn
+======
+* **Ngôn ngữ lập trình:** C/C++, C#, MATLAB
+* **Phần cứng & Vi điều khiển:** Arduino, ESP32, STM32
+* **Khác:** Thiết kế mạch, phân tích hệ thống điều khiển, Git & GitHub, Tiếng Anh
 
-Education
+## Dự án tiêu biểu (Projects)
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Hệ thống giám sát nhiệt độ LM35 (2026)**
+  * Lập trình nhúng Arduino để đọc dữ liệu cảm biến đa kênh.
+  * Xây dựng ứng dụng Desktop bằng C# để thu thập dữ liệu qua Serial và vẽ đồ thị thời gian thực.
+  * Quản lý mã nguồn nhóm bằng Git & GitHub.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Kính dịch thuật thông minh - Smart Translation Glasses (2026)**
+  * Thiết kế thiết bị đeo IoT sử dụng vi điều khiển ESP32 và công nghệ hiển thị HUD.
+  * Nghiên cứu tích hợp xử lý âm thanh để hiển thị phụ đề trực tiếp lên kính.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Hệ thống quản lý tòa nhà (BMS) / Chiếu sáng tự động (2026)**
+  * Thiết kế sơ đồ thuật toán và lập trình hệ thống đèn thông minh phân biệt trong nhà/ngoài trời.
+  * Tích hợp cảm biến chuyển động (PIR), cảm biến ánh sáng và ưu tiên xử lý tín hiệu cảnh báo cháy nổ.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+## Mục tiêu nghề nghiệp
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Định hướng trở thành Kỹ sư hệ thống nhúng (Embedded Systems Engineer).
+* Đang tích cực trau dồi chuyên môn để ứng tuyển vị trí Thực tập sinh (Trainee) tại FPT Software.
