@@ -1,4 +1,4 @@
-
+---
 permalink: /
 title: "Giới thiệu bản thân"
 author_profile: true
@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Xin chào! Mình là Dương Quốc, hiện đang là sinh viên năm thứ ba chuyên ngành IOT tại Học viện Công nghệ Bưu chính Viễn thông (PTIT) - Cơ sở TP. Hồ Chí Minh.
 
 Mình có niềm đam mê lớn với lĩnh vực hệ thống nhúng (Embedded Systems), phát triển phần cứng và Internet of Things (IoT). Quá trình học tập và làm việc của mình gắn liền với việc thiết kế mạch, lập trình vi điều khiển (Arduino, ESP32, STM32) và xử lý tín hiệu số bằng C++ cũng như MATLAB.
